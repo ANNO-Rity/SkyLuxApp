@@ -1,0 +1,21 @@
+Tugas Akhir
+Detail Tugas
+Lakukan finalisasi pada proyek Landing Page yang sudah kamu buat mulai dari Tugas Praktik #1 - Tugas Praktik #10. Adapun ketentuan yang perlu diperhatikan adalah sebagai berikut.
+
+Membuat tampilan Landing Page dengan ReactJS.
+Memiliki navigasi halaman (Navbar) dan Footer.
+Terdapat minimal 5 konten (section).
+Buatlah tampilan sesuai dengan kreativitas kamu. Tampilan yang menarik akan menambah nilai kamu.
+Lakukan testing menggunakan metode yang telah kamu pelajari sebelumnya.
+Cek performa dari tampilan yang kamu buat menggunakan metode yang telah kamu pelajari sebelumnya.
+Cara Pengiriman Tugas
+Setelah selesai mengerjakan, kirimkan hasil pengerjaan dengan mengikuti langkah berikut.
+
+Menyiapkan file yang akan di-upload.
+Kompres menjadi .zip, proyek yang telah kamu buat. Dengan catatan untuk folder node_modules tidak perlu dimasukkan ke zip-nya.
+Download hasil analisis performa menggunakan Lighthouse.
+Screenshot hasil testing proyek landing page yang kamu buat.
+Buka Google Drive dengan folder "Belajar ReactJs" yang sudah disediakan Gamelab.
+Buat folder baru dengan format nama_TugasAkhir.
+Upload file yang telah disiapkan sebelumnya ke folder baru yang sudah kamu buat.
+Kirim link folder tadi sebagai jawaban di bawah ini.
